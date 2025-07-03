@@ -1,4 +1,4 @@
-# SCT_SD_Task_1!
+# SCT_SD_1!
 
 # 🌡️ SkillCraft Technologies – Task 01
 
