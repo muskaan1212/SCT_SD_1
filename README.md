@@ -18,7 +18,7 @@ A simple program that converts temperatures between **Celsius**, **Fahrenheit**,
 
 ## ⚙️ How to Use
 1. Clone the repo.
-2. Run `converter.py` .
+2. Run `pythonconverter.py` .
 3. Enter temperature in one scale to get the converted values.
 
 ## ✨ Author
