@@ -10,6 +10,10 @@
 
 This is my first task for SkillCraft Technologies:  
 A simple program that converts temperatures between **Celsius**, **Fahrenheit**, and **Kelvin** scales.
+## 🖼️ GUI Version
+This repository also includes a simple Tkinter GUI for a user-friendly experience.
+Run `gui.py` to use the graphical version.
+
 
 ## 🔗 Project Link
 [GitHub Repo](https://github.com/muskaan1212/SCT_SD_Task-1)
