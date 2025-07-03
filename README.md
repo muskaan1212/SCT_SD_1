@@ -8,7 +8,7 @@ This program converts temperatures between Celsius, Fahrenheit, and Kelvin scale
 
 ### 📌 How to Run
 1. Clone the repo.
-2. Run `python converter.py` (for example).
+2. Run `python converter.py`.
 
 ### ✅ Example
 - 0°C = 32°F = 273.15K
